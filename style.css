@@ -1,0 +1,31 @@
+body{
+    background-image: url("images/newyork.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.block{
+    padding: 300px;
+    background: url("images/block.PNG");
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-attachment: fixed;
+    background-origin: content-box;
+    background-position: center; 
+}
+.container{
+    height: 1px;
+    text-align: center;
+    color: white;
+    transform: translateY(4vw);
+    font-size: 30px;
+
+}
+
+#MyDay{
+    text-align: center;
+}
+
+#MyTime{
+    text-align: center;
+}
